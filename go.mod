@@ -1,4 +1,4 @@
-module useragent
+module github.com/alxrt/useragent
 
 go 1.14
 
